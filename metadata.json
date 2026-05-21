@@ -1,0 +1,6 @@
+{
+  "name": "ITNextGen.IO",
+  "description": "Interactive learning and management portal focusing on programming simulation, weekly modules, discussion forums, and assignments grading bertenaga AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
